@@ -1,4 +1,5 @@
 # vue2-g-upload
+基于vue2以及Element的上传组件
 
 ## Project setup
 ```
